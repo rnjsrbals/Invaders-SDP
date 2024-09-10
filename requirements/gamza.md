@@ -16,8 +16,7 @@ Our team is responsible for dressing the game with the right sounds to help play
 We aim to analyze various sounds and incorporate them into the Space Invader game to make it more engaging for players.
 
 ## Detailed Requirements
-- **Background Music(BGM)**
-  - Main theme: The theme song that plays on the first screen or main title screen of your game to set the tone of the game for the player.(It is an important element that can make or break the first impression of the game.)
+- **Main theme(BGM)**: The theme song that plays on the first screen or main title screen of your game to set the tone of the game for the player.(It is an important element that can make or break the first impression of the game)
 - **Spaceship and alien interactions**: Alien makes a sound when it touches your fighter.
 - **Store**: Sound for the store.
 - **Die**: Make sound when you die.
