@@ -9,8 +9,8 @@ Our team is responsible for dressing the game with the right sounds to help play
 - [`Bolderdene`](https://github.com/kbboldooo) : Explore sounds, Implementing code 
 - [`Kim Yujin`](https://github.com/yujin041124) : Design architecture, Review and test code
 - [`Kwon Gumin`](https://github.com/rnjsrbals) : Design architecture, Review and test code
-- [`Wu, Jiaqi`](https://github.com/PurpleBananass) : Explore sounds, Implementing code 
-- [`Hu, Tianxiang`](https://github.com/HT1anX) : Explore sounds, Implementing code 
+- [`Wu Jiaqi`](https://github.com/milier1029) : Explore sounds, Implementing code 
+- [`Hu Tianxiang`](https://github.com/HT1anX) : Explore sounds, Implementing code 
 
 ## Team Requirements
 We aim to analyze various sounds and incorporate them into the Space Invader game to make it more engaging for players.
